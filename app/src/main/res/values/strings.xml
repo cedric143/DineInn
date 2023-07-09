@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dine Inn</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="Email">Email</string>
+
+
+</resources>
